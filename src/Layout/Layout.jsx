@@ -2,7 +2,7 @@ import Navigation from "../components/Navigation/Navigation";
 
 const Layout = ({ children }) => {
   return (
-    <div>
+    <div className="h-fit">
       <Navigation />
       {children}
     </div>
