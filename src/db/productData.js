@@ -1,4 +1,4 @@
-/*export const products = [
+export const products = [
   {
     id: 1,
     name: "Winter body",
@@ -79,4 +79,3 @@
       "https://s6.uupload.ir/files/luis-felipe-lins-j2-waqdckus-unsplash_ku8a.jpg",
   },
 ];
-*/
