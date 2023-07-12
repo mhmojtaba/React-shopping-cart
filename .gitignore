@@ -24,4 +24,4 @@ yarn-error.log*
 
 
 #db
-productData.js
+/src/db/productData
